@@ -23,7 +23,7 @@ gitsome @ git+https://github.com/donnemartin/gitsome.git@d7c57abc7cb66e9c910a844
 idna==2.10
 importlib-metadata==1.7.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.5.1
 MarkupSafe==1.1.1
 more-itertools==8.4.0
